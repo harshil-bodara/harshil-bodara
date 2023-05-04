@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Harshil Bodara,
 
-I'm a freelance designer and frontend developer with 4 years of experience in creating beautiful, user-friendly, and responsive websites and applications. I specialize in designing intuitive user interfaces, creating engaging user experiences, and developing robust frontend solutions using cutting-edge web technologies.
+I'm a freelance designer and frontend developer with 4 years of experience in creating beautiful, user-friendly, and responsive websites and backend applications. 
+I specialize in designing intuitive user interfaces, creating engaging user experiences, and developing robust frontend solutions using cutting-edge web technologies.
 
 ## My Skills
 
