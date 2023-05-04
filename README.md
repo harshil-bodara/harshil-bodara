@@ -1,17 +1,21 @@
-# Hello, I'm [Your Name Here] 👋
+# 👋 Hello, I'm Harshil Bodara,
 
-I'm a freelance designer and frontend developer with [X] years of experience in creating beautiful, user-friendly, and responsive websites and applications. I specialize in designing intuitive user interfaces, creating engaging user experiences, and developing robust frontend solutions using cutting-edge web technologies.
+I'm a freelance designer and frontend developer with 4 years of experience in creating beautiful, user-friendly, and responsive websites and applications. I specialize in designing intuitive user interfaces, creating engaging user experiences, and developing robust frontend solutions using cutting-edge web technologies.
 
 ## My Skills
 
-- **Design:** Adobe Creative Suite, Sketch, Figma, InVision, Zeplin
-- **Frontend Development:** HTML, CSS, JavaScript, React, Vue.js, Angular
-- **Backend Development:** Node.js, Express.js, MongoDB, SQL
-- **Other Tools:** Git, GitHub, Bitbucket, Heroku, AWS, Netlify, Firebase
+- **Design:** CSS, SCSS, LESS, Bootstrap5, Tailwind, Figma, etc...
+- **Frontend Development:** HTML, CSS, JavaScript, React.js/Next.js, MUI5, AntD, BlueprintJS.
+- **Backend Development:** Node.js, Express.js/Nest.js, MongoDB, SQL, NoSQL, Docker, Graphql.
+- **Other Tools:** Git, GitHub, Bitbucket, Heroku, AWS, Netlify, Firebase.
 
 ## Let's Connect
 
-If you have a project in mind or just want to say hi, feel free to reach out to me on [LinkedIn](link-to-linkedin) or [Twitter](link-to-twitter). I'm always open to new opportunities and collaborations.
+- LinkedIn: [@HarshilBodara](https://www.linkedin.com/in/harshil-bodara)
+- Upwork: [@HarshilBodara](https://www.upwork.com/freelancers/~01b6035f3afbab325e)
+- Freelancer: [@HarshilBodara](https://www.freelancer.com/u/harshilbodara23)
+
+If you have a project in mind or just want to say hi, feel free to reach out to me on above any source. I'm always open to new opportunities and collaborations.
 
 ## Portfolio
 
