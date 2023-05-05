@@ -1,14 +1,15 @@
 # 👋 Hello, I'm Harshil Bodara,
 
-I'm a freelance designer and frontend developer with 4 years of experience in creating beautiful, user-friendly, and responsive websites and backend applications. 
-I specialize in designing intuitive user interfaces, creating engaging user experiences, and developing robust frontend solutions using cutting-edge web technologies.
+I'm a versatile full-stack developer with 4 years of experience in building stunning, responsive websites and robust backend applications. My expertise spans across the entire web development stack, from designing intuitive user interfaces to developing scalable backend architectures. I specialize in leveraging cutting-edge technologies and frameworks such as React, Node.js, and MongoDB to create engaging user experiences and seamless frontend and backend integrations. With a strong focus on quality and client satisfaction, I bring a creative and innovative approach to every project I work on.
 
 ## My Skills
 
-- **Design:** CSS, SCSS, LESS, Bootstrap5, Tailwind, Figma, etc...
-- **Frontend Development:** HTML, CSS, JavaScript, React.js/Next.js, MUI5, AntD, BlueprintJS.
-- **Backend Development:** Node.js, Express.js/Nest.js, MongoDB, SQL, NoSQL, Docker, Graphql.
-- **Other Tools:** Git, GitHub, Bitbucket, Heroku, AWS, Netlify, Firebase.
+- **Frameworks:** CSS, SASS, LESS, Material UI, Bootstrap, Antd, Vuetify, Tailwind
+- **Frontend Development:** HTML, CSS, JavaScript, React.js/Next.js
+- **Backend Development:** Node.js, Express.js/Nest.js
+- **Database:** MongoDB, MySql, PostgreSQL, Firebase, Dynamodb
+- **Service:** AWS, Cloudflare, Firebase Functions
+- **Other Tools:** Git, Github, Bitbucket, GitLab, Trello, Jira, Asana
 
 ## Let's Connect
 
@@ -22,14 +23,15 @@ If you have a project in mind or just want to say hi, feel free to reach out to 
 
 Here are some of the projects I've worked on:
 
-- [Risked NFT](https://risked-nft.netlify.app)
-  ![Risked NFT Image 1](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/RiskedNFTImage1.png)
-  ![Risked NFT Image 2](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/RiskedNFTImage2.png)
-  ![Risked NFT Image 3](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/RiskedNFTImage3.png)
-  ![Risked NFT Image 3](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/RiskedNFTImage4.png)
+- [Sketchnote](https://sketchnote.co/)
+  ![Sketchnote Image 1](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/sketchnoteImage1.jpg)
+  ![Sketchnote Image 2](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/sketchnoteImage2.jpg)
+  ![Sketchnote Image 3](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/sketchnoteImage3.jpg)
+  ![Sketchnote Image 4](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/sketchnoteImage4.jpg)
+  ![Sketchnote Image 5](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/sketchnoteImage5.jpg)
 
-- [Bscdao](https://www.bscdao.app/)
-  ![Bscdao Image 1](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/BscdaoImage1.png)
-  ![Bscdao Image 2](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/BscdaoImage2.png)
-  ![Bscdao Image 3](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/BscdaoImage3.png)
-  ![Bscdao Image 4](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/BscdaoImage4.png)
+- [Designed](https://designed.org/)
+  ![Designed Image 1](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/designedImage1.jpg)
+  ![Designed Image 2](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/designedImage2.jpg)
+  ![Designed Image 3](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/designedImage3.jpg)
+  ![Designed Image 4](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/designedImage4.jpg)
