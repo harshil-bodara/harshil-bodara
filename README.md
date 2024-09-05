@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Harshil Bodara,
 
-I'm a versatile full-stack developer with 4 years of experience in building stunning, responsive websites and robust backend applications. My expertise spans across the entire web development stack, from designing intuitive user interfaces to developing scalable backend architectures. I specialize in leveraging cutting-edge technologies and frameworks such as React, Node.js, and MongoDB to create engaging user experiences and seamless frontend and backend integrations. With a strong focus on quality and client satisfaction, I bring a creative and innovative approach to every project I work on.
+I'm a versatile full-stack developer with +5 years of experience in building stunning, responsive websites and robust backend applications. My expertise spans across the entire web development stack, from designing intuitive user interfaces to developing scalable backend architectures. I specialize in leveraging cutting-edge technologies and frameworks such as React, Node.js, and MongoDB to create engaging user experiences and seamless frontend and backend integrations. With a strong focus on quality and client satisfaction, I bring a creative and innovative approach to every project I work on.
 
 ## My Skills
 
