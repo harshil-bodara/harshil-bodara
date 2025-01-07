@@ -1,14 +1,14 @@
 # 👋 Hello, I'm Harshil Bodara,
 
-I'm a versatile full-stack developer with +5 years of experience in building stunning, responsive websites and robust backend applications. My expertise spans across the entire web development stack, from designing intuitive user interfaces to developing scalable backend architectures. I specialize in leveraging cutting-edge technologies and frameworks such as React, Node.js, and MongoDB to create engaging user experiences and seamless frontend and backend integrations. With a strong focus on quality and client satisfaction, I bring a creative and innovative approach to every project I work on.
+I'm a versatile full-stack developer with +5 years of experience in building stunning, responsive websites and robust backend applications. My expertise spans the entire web development stack, from designing intuitive user interfaces to developing scalable backend architectures. I specialize in leveraging cutting-edge technologies and frameworks such as React, Node.js, and MongoDB to create engaging user experiences and seamless frontend and backend integrations. With a strong focus on quality and client satisfaction, I bring a creative and innovative approach to every project I work on.
 
 ## My Skills
 
-- **Frameworks:** CSS, SASS, LESS, Material UI, Bootstrap, Antd, Vuetify, Tailwind
-- **Frontend Development:** HTML, CSS, JavaScript, React.js/Next.js
-- **Backend Development:** Node.js, Express.js/Nest.js
+- **UI Frameworks:** Material UI, React-Bootstrap, Antd, Tailwind, Chakra-UI, Semantic-UI, Vuetify, Vue-Bootstrap, Ngx-Bootstrap, SASS, LESS, CSS 
+- **Frontend Development:** Next.js, React.js, Redux(Saga & Thunk), Nuxt.js, Vue.js, Vuex, Angular.js
+- **Backend Development:** Node.js, Express.js, Nest.js(Micro service) & Laravel
 - **Database:** MongoDB, MySql, PostgreSQL, Firebase, Dynamodb
-- **Service:** AWS, Cloudflare, Firebase Functions
+- **Service:** AWS, GCP, Cloudflare, Firebase Functions, Vercel, Netlify 
 - **Other Tools:** Git, Github, Bitbucket, GitLab, Trello, Jira, Asana
 
 ## Let's Connect
@@ -17,9 +17,9 @@ I'm a versatile full-stack developer with +5 years of experience in building stu
 - Upwork: [@HarshilBodara](https://www.upwork.com/freelancers/~01b6035f3afbab325e)
 - Freelancer: [@HarshilBodara](https://www.freelancer.com/u/harshilbodara23)
 
-If you have a project in mind or just want to say hi, feel free to reach out to me on above any source. I'm always open to new opportunities and collaborations.
+If you have a project in mind or just want to say hi, feel free to reach out to me at any source. I'm always open to new opportunities and collaborations.
 
-### My Porfolio:  [Harshil-Bodara](http://harshil-bodara.netlify.app/)
+### My Portfolio:  [Harshil-Bodara](http://harshil-bodara.netlify.app)
 
 ## Portfolio
 
