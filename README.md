@@ -9,7 +9,7 @@ I'm a versatile full-stack developer with +5 years of experience in building stu
 - **Database:** MongoDB, MySql, PostgreSQL, Firebase, Dynamodb
 - **Application Development:** React-Native & React-Ionic
 - **UI Frameworks:** Material UI, React-Bootstrap, Antd, Tailwind, Chakra-UI, Semantic-UI, Vuetify, Vue-Bootstrap, Ngx-Bootstrap, SASS, LESS, CSS 
-- **Service:** AWS, GCP, Cloudflare, Firebase Functions, Vercel, Netlify 
+- **Service:** AWS, GCP, Azure, Cloudflare, Firebase Functions, Vercel, Netlify 
 - **Other Tools:** Git, Github, Bitbucket, GitLab, Trello, Jira, Asana
 
 ## Let's Connect
