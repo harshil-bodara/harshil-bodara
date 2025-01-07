@@ -4,10 +4,11 @@ I'm a versatile full-stack developer with +5 years of experience in building stu
 
 ## My Skills
 
-- **UI Frameworks:** Material UI, React-Bootstrap, Antd, Tailwind, Chakra-UI, Semantic-UI, Vuetify, Vue-Bootstrap, Ngx-Bootstrap, SASS, LESS, CSS 
-- **Frontend Development:** Next.js, React.js, Redux(Saga & Thunk), Nuxt.js, Vue.js, Vuex, Angular.js
+- **Frontend Development:** Next.js, React.js, Typescript, Redux(Saga & Thunk), Nuxt.js, Vue.js, Vuex, Angular.js
 - **Backend Development:** Node.js, Express.js, Nest.js(Micro service) & Laravel
 - **Database:** MongoDB, MySql, PostgreSQL, Firebase, Dynamodb
+- **Application Development:** React-Native & React-Ionic
+- **UI Frameworks:** Material UI, React-Bootstrap, Antd, Tailwind, Chakra-UI, Semantic-UI, Vuetify, Vue-Bootstrap, Ngx-Bootstrap, SASS, LESS, CSS 
 - **Service:** AWS, GCP, Cloudflare, Firebase Functions, Vercel, Netlify 
 - **Other Tools:** Git, Github, Bitbucket, GitLab, Trello, Jira, Asana
 
