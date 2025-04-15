@@ -22,20 +22,4 @@ If you have a project in mind or just want to say hi, feel free to reach out to 
 
 ### My Portfolio:  [Harshil-Bodara](http://harshil-bodara.netlify.app)
 
-## Portfolio
-
-Here are some of the projects I've worked on:
-
-- [Sketchnote](https://sketchnote.co/)
-  ![Sketchnote 1](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/sketchnote1.png)
-  ![Sketchnote 2](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/sketchnote2.png)
-  ![Sketchnote 3](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/sketchnote3.png)
-  ![Sketchnote 4](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/sketchnote4.png)
-  ![Sketchnote 5](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/sketchnote5.png)
-
-- [Designed](https://designed.org/)
-  ![Designed 1](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/designed1.png)
-  ![Designed 2](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/designed2.png)
-  ![Designed 3](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/designed3.png)
-  ![Designed 4](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/designed4.png)
-  ![Designed 4](https://raw.githubusercontent.com/harshil-bodara/harshil-bodara/main/assets/designed5.png)
+Thanks!
