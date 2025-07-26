@@ -2,7 +2,7 @@
 
 I'm a versatile **full-stack developer** with **5+ years** of experience crafting responsive, high-performing web applications and scalable backend systems. I specialize in delivering complete end-to-end solutions with a strong focus on clean architecture, seamless user experiences, and long-term maintainability.
 
-What sets me apart is my smart, AI-enhanced development workflow. I actively leverage tools like **Cursor, GitHub Copilot, and Replit Ghostwriter ** to streamline development, eliminate repetitive tasks, and accelerate delivery by **30–40%.** This efficiency allows me to spend more time solving meaningful problems and building better products faster.
+What sets me apart is my smart, AI-enhanced development workflow. I actively leverage tools like **Cursor, GitHub Copilot, and Replit Ghostwriter** to streamline development, eliminate repetitive tasks, and accelerate delivery by **30–40%.** This efficiency allows me to spend more time solving meaningful problems and building better products faster.
 
 ## My Skills
 - **AI-Enhanced Development:** Cursor, GitHub Copilot, Replit (AI Code Assist)
