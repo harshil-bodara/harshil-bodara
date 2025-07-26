@@ -1,9 +1,11 @@
 # 👋 Hello, I'm Harshil Bodara,
 
-I'm a versatile full-stack developer with +5 years of experience in building stunning, responsive websites and robust backend applications. My expertise spans the entire web development stack, from designing intuitive user interfaces to developing scalable backend architectures. I specialize in leveraging cutting-edge technologies and frameworks such as React, Node.js, and MongoDB to create engaging user experiences and seamless frontend and backend integrations. With a strong focus on quality and client satisfaction, I bring a creative and innovative approach to every project I work on.
+I'm a versatile **full-stack developer** with **5+ years** of experience crafting responsive, high-performing web applications and scalable backend systems. I specialize in delivering complete end-to-end solutions with a strong focus on clean architecture, seamless user experiences, and long-term maintainability.
+
+What sets me apart is my smart, AI-enhanced development workflow. I actively leverage tools like **Cursor, GitHub Copilot, and Replit Ghostwriter ** to streamline development, eliminate repetitive tasks, and accelerate delivery by **30–40%.** This efficiency allows me to spend more time solving meaningful problems and building better products faster.
 
 ## My Skills
-
+- **AI-Enhanced Development:** Cursor, GitHub Copilot, Replit (AI Code Assist)
 - **Frontend Development:** Next.js, React.js, Typescript, Redux(Saga & Thunk), Nuxt.js, Vue.js, Vuex, Angular.js
 - **Backend Development:** Node.js, Express.js, Nest.js(Micro service) & Laravel
 - **Database:** MongoDB, MySql, PostgreSQL, Firebase, Dynamodb
@@ -18,7 +20,7 @@ I'm a versatile full-stack developer with +5 years of experience in building stu
 - Upwork: [@HarshilBodara](https://www.upwork.com/freelancers/~01b6035f3afbab325e)
 - Freelancer: [@HarshilBodara](https://www.freelancer.com/u/harshilbodara23)
 
-If you have a project in mind or just want to say hi, feel free to reach out to me at any source. I'm always open to new opportunities and collaborations.
+If you have a project in mind or just want to say hi, feel free to reach out to me at any time. I'm always open to new opportunities and collaborations.
 
 ### My Portfolio:  [Harshil-Bodara](http://harshil-bodara.netlify.app)
 
